@@ -2,8 +2,6 @@
 
 Ứng dụng Flutter trực quan cho bài toán 8 quân hậu (Eight Queens Puzzle).
 
-![Giao diện ứng dụng](assets/image_solve.png)
-
 ## Mô tả bài toán
 
 Bài toán 8 quân hậu yêu cầu đặt 8 quân hậu lên bàn cờ vua 8x8 sao cho không có hai quân hậu nào chiếu lẫn nhau, tức là không có hai quân hậu nào nằm cùng hàng, cùng cột hoặc cùng đường chéo.
@@ -58,3 +56,7 @@ Nghĩa là:
 - Xem tất cả các lời giải hợp lệ cho bài toán 8 quân hậu.
 - Giao diện vuốt trái/phải chuyển lời giải trực quan.
 - Màu bàn cờ và quân hậu dễ nhìn, thích hợp cho học tập và trình diễn.
+## Ảnh minh họa
+
+> ![Kết quả ứng dụng](assets/image_solve.png)
+> *Ảnh chụp màn hình giao diện ứng dụng hiển thị một lời giải của bài toán 8 quân hậu.*
