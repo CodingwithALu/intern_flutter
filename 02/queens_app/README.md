@@ -2,7 +2,7 @@
 
 Ứng dụng Flutter trực quan cho bài toán 8 quân hậu (Eight Queens Puzzle).
 
-[![Giao diện ứng dụng](image_solve.png)](image_solve.png)
+![Giao diện ứng dụng](assets/image_solve.png)
 
 ## Mô tả bài toán
 
