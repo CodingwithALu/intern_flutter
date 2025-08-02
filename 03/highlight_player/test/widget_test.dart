@@ -7,7 +7,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:highlight_player/app.dart';
 
+// ignore: unused_import
 import 'package:highlight_player/main.dart';
 
 void main() {
